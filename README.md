@@ -1,3 +1,10 @@
+
+
+> 이 저장소는 XYZ Academy 자율주행 전문가 교육의 팀 프로젝트(원본: 35194nadawon/AMR_firstTeam1)를 포크한 것입니다.
+> **제 담당(안내팀)**: 음성 인식(Whisper)·LLM 명령 처리, Nav2 안내 주행 컨트롤러, 점자 블록 YOLO 검출기, 웹 대시보드, Gazebo 월드 생성기
+> 제 커밋은 feature/llm-voice, feature/mission-control, feature/nav2-guide, feature/yolo-block, imsi_integrated 등 브랜치에 있습니다.
+
+
 # AMR_firstTeam1 — 토이 가이드(Toy Guide)
 
 자율주행전문가교육(xyz아카데미) 팀 프로젝트.
@@ -173,10 +180,6 @@ docker compose restart
 - [프로젝트 기획](docs/PROJECT_PLAN.md)
 
 
-
-> 이 저장소는 XYZ Academy 자율주행 전문가 교육의 팀 프로젝트(원본: 35194nadawon/AMR_firstTeam1)를 포크한 것입니다.
-> **제 담당(안내팀)**: 음성 인식(Whisper)·LLM 명령 처리, Nav2 안내 주행 컨트롤러, 점자 블록 YOLO 검출기, 웹 대시보드, Gazebo 월드 생성기
-> 제 커밋은 feature/llm-voice, feature/mission-control, feature/nav2-guide, feature/yolo-block, imsi_integrated 등 브랜치에 있습니다.
 - [아키텍처](docs/ARCHITECTURE.md)
 - [ROS 인터페이스](docs/ROS_INTERFACES.md)
 - [개발 워크플로우](docs/DEVELOPMENT_WORKFLOW.md)
